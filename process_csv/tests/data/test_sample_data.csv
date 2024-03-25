@@ -1,0 +1,7 @@
+Order Number,Year,Month,Day,Product Number,Product Name,Count,Extra Col1,Extra Col2,Empty Column
+1000,2017,11,26,P-96840,Spinach,972.50,Lorem,Ipsum,
+XYZ1002,2021,03,04,P-56421,Kale,149.75,Lorem,Ipsum,
+1008,abcd,05,25,P-65367,Cucumber,126.75,Lorem,Ipsum,
+1004,2015,02,29,P-28951,Kale,45.50,Lorem,Ipsum,
+2001,2014,02,28,P28951,Spaghetti,5.50,Lorem,Ipsum,
+2001,2012,08,28,P=289511,Egg Noodles 1,12.50,Lorem,Ipsum,
