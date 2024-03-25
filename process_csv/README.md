@@ -47,6 +47,6 @@ python -m unittest discover -s tests
 ```
 
 ## Usage Notes
-= Ensure that the CSV files conform to the expected format as defined in the config.json.
-= Check logs/err.log for any errors that may have occurred during processing.
+- Ensure that the CSV files conform to the expected format as defined in the config.json.
+- Check logs/err.log for any errors that may have occurred during processing.
 
